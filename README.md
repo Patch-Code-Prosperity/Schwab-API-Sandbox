@@ -29,11 +29,11 @@ npm install -g @stoplight/prism-cli
 To start the mock server for each API product on your local machine, run:
 For Market Data API:
 ```bash
-prism mock -h 0.0.0.0 -p 4010 ./market_data_openapi.yml
+prism mock -h 0.0.0.0 -p 4010 ./market_data_openapi.yaml
 ```
 For Account and Orders API:
 ```bash
-prism mock -h 0.0.0.0 -p 4020 ./account_orders_openapi.yml
+prism mock -h 0.0.0.0 -p 4020 ./account_orders_openapi.yaml
 ```
 You **can** run both at once.
 
