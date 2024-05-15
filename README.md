@@ -73,3 +73,6 @@ Know someone else struggling to develop their Schwab app? Send them a link to th
 
 ## License 📄
 This project is licensed under the [MIT License](LICENSE).
+
+### Disclaimer
+Schwab-API-Sandbox is an unofficial development tool/aid. It is in no way endorsed by or affiliated with Charles Schwab or any associated organization. Make sure to read and understand the terms of service of the underlying API before using this package. The authors accept no responsibility for any damage that might stem from use of this package. See the LICENSE file for more details.
